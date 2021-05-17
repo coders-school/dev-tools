@@ -555,7 +555,7 @@ Uwaga: Ta funkcja jest bardzo użyteczna w debuggowaniu programu
   1. Przenieś kursor do linii poniżej oznaczonej --->.
 
   2. Wpisz  :s/czaas/czas<ENTER> .  Zauważ, że to polecenie zmienia
-     tylko pierwsze wystąpienie 'czas' w linii.
+     tylko pierwsze wystąpienie 'czaas' w linii.
 
   3. Teraz wpisz  :s/czaas/czas/g  . Dodane  g  oznacza zamianę (substytucję)
      globalnie w całej linii.  Zmienia wszystkie wystąpienia 'czaas' w linii.
