@@ -314,6 +314,10 @@ UWAGA:  Mnożnik pomiędzy operatorem  d  i ruchem działa podobnie do ruchu bez
   3. Teraz przenieś się do czwartego wiersza.
   4. Wpisz  2dd  aby usunąć dwa wiersze.
 
+--->  1)  Róże są czerwone,
+--->  3)  Fiołki są niebieskie,
+--->  6)  Cukier jest słodki,
+--->  7)  I ty też.
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
