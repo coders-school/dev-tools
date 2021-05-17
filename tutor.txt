@@ -563,10 +563,10 @@ Uwaga: Ta funkcja jest bardzo użyteczna w debuggowaniu programu
 ---> Najlepszy czas na zobaczenie najładniejszych kwiatów to czas wiosny.
 
   4. Aby zmienić wszystkie wystąpienia łańcucha znaków pomiędzy dwoma liniami,
-     wpisz: :#,#s/nowe/nowe/g gdzie #,# są numerami linii ograniczających
+     wpisz: :#,#s/stary/nowy/g gdzie #,# są numerami linii ograniczających
                                region, gdzie ma nastąpić zamiana.
-     wpisz  :%s/nowe/nowe/g   by zmienić wszystkie wystąpienia w całym pliku.
-     wpisz  :%s/nowe/nowe/gc  by zmienić wszystkie wystąpienia w całym
+     wpisz  :%s/stary/nowy/g   by zmienić wszystkie wystąpienia w całym pliku.
+     wpisz  :%s/stary/nowy/gc  by zmienić wszystkie wystąpienia w całym
                                pliku, prosząc o potwierdzenie za każdym razem.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
