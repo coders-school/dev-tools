@@ -203,7 +203,7 @@ Teraz możemy kontynuować i przejść do Lekcji 2.
 	 Jeśli zobaczysz inny znak, oznacza to, że wpisałeś coś źle; wciśnij
 	 <ESC> i zacznij od początku.
 
----> Jest tu parę papier wyrazów, które kamień nie należą do nożyce tego zdania.
+---> Jest tu parę wyrazów, które nie należą do tego zdania.
 
   5. Powtarzaj kroki 3. i 4. dopóki zdanie nie będzie poprawne, potem
   przejdź do Lekcji 2.2.
@@ -222,7 +222,7 @@ Teraz możemy kontynuować i przejść do Lekcji 2.
 
   4. Wpisz  d$  aby usunąć resztę linii.
 
----> Ktoś wpisał koniec tego zdania dwukrotnie. zdania dwukrotnie.
+---> Ktoś wpisał koniec tego zdania dwukrotnie.
 
 
   5. Przejdź do Lekcji 2.3., by zrozumieć co się stało.
