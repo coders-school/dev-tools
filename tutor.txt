@@ -316,8 +316,6 @@ UWAGA:  Mnożnik pomiędzy operatorem  d  i ruchem działa podobnie do ruchu bez
 
 --->  1)  Róże są czerwone,
 --->  3)  Fiołki są niebieskie,
---->  4)  Mam samochód,
---->  5)  Zegar podaje czas,
 --->  6)  Cukier jest słodki,
 --->  7)  I ty też.
 
