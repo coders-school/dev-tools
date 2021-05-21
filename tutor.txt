@@ -203,7 +203,7 @@ Teraz możemy kontynuować i przejść do Lekcji 2.
 	 Jeśli zobaczysz inny znak, oznacza to, że wpisałeś coś źle; wciśnij
 	 <ESC> i zacznij od początku.
 
----> Jest tu parę  wyrazów, które nie należą do tego zdania.
+---> Jest tu parę wyrazów, które nie należą do tego zdania.
 
   5. Powtarzaj kroki 3. i 4. dopóki zdanie nie będzie poprawne, potem
   przejdź do Lekcji 2.2.
@@ -402,7 +402,7 @@ UWAGA:  Mnożnik pomiędzy operatorem  d  i ruchem działa podobnie do ruchu bez
 
   4. Powtarzaj kroki 2. i 3. dopóki pierwsza linia nie będzie taka, jak druga.
 
---->  Kiedy ten wiersz był wstukiwany, ktoś wcisnął perę złych klawiszy!
+--->  Kiedy ten wiersz był wstukiwany, ktoś wcisnął parę złych klawiszy!
 --->  Kiedy ten wiersz był wstukiwany, ktoś wcisnął parę złych klawiszy!
 
   5. Teraz czas na Lekcję 3.3.
