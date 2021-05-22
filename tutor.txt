@@ -132,7 +132,7 @@ UWAGA: Ucz się przez ćwiczenie, nie wkuwanie.
   4. Przenieś kursor do drugiej linii oznaczonej ---> i powtórz kroki 2. i 3.,
      aby poprawić zdanie.
 
----> Brakuje tu trochę tekstu. 
+---> Brakuje tu trochę tekstu.
      Brakuje tu trochę tekstu.
 ---> Tu też trochę brakuje.
      Tu też trochę brakuje.
