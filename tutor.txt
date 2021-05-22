@@ -47,6 +47,7 @@ Uwaga: Klawisze kursora także powinny działać, ale używając  hjkl  będzies
        w stanie poruszać się o wiele szybciej, jak się tylko przyzwyczaisz.
        Naprawdę!
 
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
             Lekcja 1.2.: WYCHODZENIE Z VIM-a
 
