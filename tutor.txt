@@ -48,7 +48,7 @@ Uwaga: Klawisze kursora także powinny działać, ale używając  hjkl  będzies
        Naprawdę!
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-            Lekcja 1.2.: WYCHODZENIE Z VIM-a
+          Lekcja 1.2.: WYCHODZENIE Z VIM-a
 
  !! UWAGA: Przed wykonaniem jakiegokolwiek polecenia przeczytaj całą lekcję !!
 
