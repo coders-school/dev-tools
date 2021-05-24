@@ -1,4 +1,28 @@
-=============================================================================== =    W i t a j   w   t u t o r i a l u   V I M - a      -    Wersja  1.7.     = =============================================================================== Vim to potężny edytor, który posiada wiele poleceń, zbyt dużo, by wyjaśnić je wszystkie w tym tutorialu. Ten przewodnik ma nauczyć Cię posługiwać się wystarczająco wieloma komendami, byś mógł łatwo używać Vima jako edytora ogólnego przeznaczenia.  Czas potrzebny na ukończenie tutoriala to 25 do 30 minut i zależy od tego jak wiele czasu spędzisz na eksperymentowaniu.  UWAGA: Polecenia wykonywane w czasie lekcji zmodyfikują tekst. Zrób wcześniej kopię tego pliku do ćwiczeń (jeśli zacząłeś komendą "vimtutor", to już pracujesz na kopii).  Pamiętaj, że przewodnik ten został zaprojektowany do nauki poprzez ćwiczenia. Oznacza to, że musisz wykonywać polecenia, by nauczyć się ich prawidłowo. Jeśli będziesz jedynie czytał tekst, szybko zapomnisz wiele poleceń!  Teraz upewnij się, że nie masz wciśniętego Caps Locka i wciskaj  j tak długo dopóki Lekcja 1.1. nie wypełni całkowicie ekranu.
+================================================================================
+=    W i t a j   w   t u t o r i a l u   V I M - a      -    Wersja  1.7.     =
+===============================================================================
+
+     Vim to potężny edytor, który posiada wiele poleceń, zbyt dużo, by
+     wyjaśnić je wszystkie w tym tutorialu. Ten przewodnik ma nauczyć
+     Cię posługiwać się wystarczająco wieloma komendami, byś mógł łatwo
+     używać Vima jako edytora ogólnego przeznaczenia.
+
+     Czas potrzebny na ukończenie tutoriala to 25 do 30 minut i zależy
+     od tego jak wiele czasu spędzisz na eksperymentowaniu.
+
+	 UWAGA:
+	 Polecenia wykonywane w czasie lekcji zmodyfikują tekst. Zrób
+	 wcześniej kopię tego pliku do ćwiczeń (jeśli zacząłeś komendą
+	 "vimtutor", to już pracujesz na kopii).
+
+	 Pamiętaj, że przewodnik ten został zaprojektowany do nauki poprzez
+	 ćwiczenia. Oznacza to, że musisz wykonywać polecenia, by nauczyć się ich
+	 prawidłowo. Jeśli będziesz jedynie czytał tekst, szybko zapomnisz wiele
+	 poleceń!
+
+     Teraz upewnij się, że nie masz wciśniętego Caps Locka i wciskaj  j
+     tak długo dopóki Lekcja 1.1. nie wypełni całkowicie ekranu.
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 		  Lekcja 1.1.: PORUSZANIE SIĘ KURSOREM
 
