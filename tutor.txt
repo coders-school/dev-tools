@@ -755,7 +755,7 @@ duży tekst
   5. Użyj  e  by przejść do kolejnego niedokończonego wyrazu i powtarzaj kroki
      3. i 4.
 
----> Ta li poz Ci ćwi dodaw teks do koń lin
+---> Ta linia pozwoli Ci ćwiczyś dodawanie tekstu do końca linii.
 ---> Ta linia pozwoli Ci ćwiczyć dodawanie tekstu do końca linii.
 
 Uwaga:  a ,  i  oraz  A  prowadzą do trybu Insert, jedyną różnicą jest miejsce,
@@ -777,7 +777,7 @@ Uwaga:  a ,  i  oraz  A  prowadzą do trybu Insert, jedyną różnicą jest miej
 
   5. Powtarzaj kroki by wymienić wszystkie xxx.
 
----> Dodanie 123 do xxx daje xxx.
+---> Dodanie 123 do 456 daje 579.
 ---> Dodanie 123 do 456 daje 579.
 
 UWAGA: Tryb Replace jest jak tryb Insert, ale każdy znak usuwa istniejący
@@ -803,7 +803,7 @@ UWAGA: Tryb Replace jest jak tryb Insert, ale każdy znak usuwa istniejący
      końca następnej linii  j$  i upakuj tam tekst z  p .
 
 --->  a) to jest pierwszy element.
-      b)
+      b) to jest pierwszy element.
 Uwaga: możesz użyć  y  jako operatora;  yw  kopiuje jeden wyraz.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
