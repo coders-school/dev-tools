@@ -481,7 +481,6 @@ UWAGA:  Możesz używać <BS> aby poprawiać błędy w czasie pisania.
 
 
 
-
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 	       Lekcja 4.1.: POŁOŻENIE KURSORA ORAZ STATUS PLIKU
 
@@ -672,6 +671,16 @@ UWAGA: Wciśnięcie  v  zaczyna tryb Wizualny. Możesz poruszać kursorem, by
 
 	    ** By wstawić zawartość pliku, wpisz   :r NAZWA_PLIKU **
 
+  1. Przenieś kursor do tego wiersza.
+
+  2. Wciśnij  v  i przenieś kursor do punktu 5. Zauważ, że tekst został
+     podświetlony.
+
+  3. Wciśnij znak  : . Na dole ekranu pojawi się  :'<,'> .
+
+  4. Wpisz  w TEST , gdzie TEST to nazwa pliku, który jeszcze nie istnieje.
+     Upewnij się, że widzisz  :'<,'>w TEST zanim wciśniesz Enter.
+
   1. Umieść kursor tuż powyżej tej linii.
 
 UWAGA: Po wykonaniu kroku 2. zobaczysz tekst z Lekcji 5.3. Potem przejdź
@@ -755,7 +764,7 @@ duży tekst
   5. Użyj  e  by przejść do kolejnego niedokończonego wyrazu i powtarzaj kroki
      3. i 4.
 
----> Ta linia pozwoli Ci ćwiczyś dodawanie tekstu do końca linii.
+---> Ta li poz Ci ćwi dodaw teks do koń lin
 ---> Ta linia pozwoli Ci ćwiczyć dodawanie tekstu do końca linii.
 
 Uwaga:  a ,  i  oraz  A  prowadzą do trybu Insert, jedyną różnicą jest miejsce,
@@ -777,7 +786,7 @@ Uwaga:  a ,  i  oraz  A  prowadzą do trybu Insert, jedyną różnicą jest miej
 
   5. Powtarzaj kroki by wymienić wszystkie xxx.
 
----> Dodanie 123 do 456 daje 579.
+---> Dodanie 123 do xxx daje xxx.
 ---> Dodanie 123 do 456 daje 579.
 
 UWAGA: Tryb Replace jest jak tryb Insert, ale każdy znak usuwa istniejący
@@ -803,7 +812,7 @@ UWAGA: Tryb Replace jest jak tryb Insert, ale każdy znak usuwa istniejący
      końca następnej linii  j$  i upakuj tam tekst z  p .
 
 --->  a) to jest pierwszy element.
-      b) to jest pierwszy element.
+      b)
 Uwaga: możesz użyć  y  jako operatora;  yw  kopiuje jeden wyraz.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
