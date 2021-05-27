@@ -428,7 +428,7 @@ UWAGA: Pamiętaj, by uczyć się ćwicząc, a nie pamięciowo.
   5. Powtarzaj kroki 3. i 4. dopóki pierwsze zdanie nie będzie takie same,
      jak drugie.
 
----> Ta linia ma pare słów, które trzeba zmienić używając polecenia zmień.
+---> Ta linia ma parę słów, które trzeba zmienić używając polecenia zmień.
 ---> Ta linia ma parę słów, które trzeba zmienić używając polecenia zmień.
 
   Zauważ, że  ce  nie tylko zamienia wyraz, ale także zmienia tryb na
