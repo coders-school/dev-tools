@@ -538,7 +538,7 @@ Uwaga:  Kiedy szukanie osiągnie koniec pliku, będzie kontynuowane od początku
   2. Teraz wpisz znak  % .
 
   3. Kursor powinien się znaleźć na parującym nawiasie.
-https://github.com/DawidSwistak/dev-tools/blob/vimtutor/tutor.txt
+
   4. Wciśnij  %  aby przenieść kursor z powrotem do parującego nawiasu.
 
   5. Przenieś kursor do innego (,),[,],{ lub } i zobacz co robi  % .
