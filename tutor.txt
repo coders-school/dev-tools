@@ -990,7 +990,3 @@ UWAGA: Uzupełnianie działa dla wielu poleceń. Spróbuj wcisnąć CTRL-D i <TA
   3rd rev. Marzec 2006
   4th rev. Grudzień 2008
   Wszelkie uwagi proszę kierować na: mikmach@wp.pl
-
-// replace the content of this file
-// your completed vimtutor files goes here
-// only first 4 chapters are checked
