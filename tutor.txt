@@ -83,7 +83,7 @@ UWAGA: :q!<ENTER> porzuca wszelkie zmiany jakie zrobiłeś. W następnych
 
   4. Powtarzaj kroki 2. do 4. dopóki zdanie nie jest poprawne.
 
----> Krowa przeskoczyła przez księżyc.
+---> Kkrowa prrzeskoczyła prrzez ksiiężycc.
 
   5. Teraz, kiedy zdanie jest poprawione, przejdź do Lekcji 1.4.
 
@@ -109,7 +109,7 @@ UWAGA: Ucz się przez ćwiczenie, nie wkuwanie.
   4. Po poprawieniu błędu wciśnij <ESC>, by wrócić do trybu Normal.
      Powtarzaj kroki 2. do 4., aby poprawić całe zdanie.
 
----> W tej linii brakuje trochę tekstu.
+---> W tej brkje trochę .
 ---> W tej linii brakuje trochę tekstu.
 
   5. Kiedy czujesz się swobodnie wstawiając tekst, przejdź do
@@ -132,9 +132,9 @@ UWAGA: Ucz się przez ćwiczenie, nie wkuwanie.
   4. Przenieś kursor do drugiej linii oznaczonej ---> i powtórz kroki 2. i 3.,
      aby poprawić zdanie.
 
----> Brakuje tu trochę tekstu.
+---> Brakuje tu tro
      Brakuje tu trochę tekstu.
----> Tu też trochę brakuje.
+---> Tu też trochę bra
      Tu też trochę brakuje.
 
   5. Kiedy już utrwaliłeś ćwiczenie, przejdź do lekcji 1.6.
@@ -224,8 +224,11 @@ Teraz możemy kontynuować i przejść do Lekcji 2.
 
 ---> Ktoś wpisał koniec tego zdania dwukrotnie.
 
-
   5. Przejdź do Lekcji 2.3., by zrozumieć co się stało.
+
+
+
+
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 		     Lekcja 2.3.: O OPERATORACH I RUCHACH
@@ -270,6 +273,7 @@ UWAGA: Wpisanie tylko ruchu w trybie Normal bez operatora przeniesie kursor
  ---> To jest zwykły wiersz z wyrazami, po których możesz się poruszać.
 
   6. Przejdź do lekcji 2.5.
+
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -384,6 +388,7 @@ UWAGA:  Mnożnik pomiędzy operatorem  d  i ruchem działa podobnie do ruchu bez
 ---> d) Jak dwa aniołki.
 
 
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 		    Lekcja 3.2.: POLECENIE REPLACE (zastąp)
 
@@ -398,7 +403,7 @@ UWAGA:  Mnożnik pomiędzy operatorem  d  i ruchem działa podobnie do ruchu bez
 
   4. Powtarzaj kroki 2. i 3. dopóki pierwsza linia nie będzie taka, jak druga.
 
---->  Kiedy ten wiersz był wstukiwany, ktoś wcisnął parę złych klawiszy!
+--->  Kiedy ten wiersz był wstukiwany, ktoś wciznął parę złych klawiszy!
 --->  Kiedy ten wiersz był wstukiwany, ktoś wcisnął parę złych klawiszy!
 
   5. Teraz czas na Lekcję 3.3.
@@ -423,7 +428,7 @@ UWAGA: Pamiętaj, by uczyć się ćwicząc, a nie pamięciowo.
   5. Powtarzaj kroki 3. i 4. dopóki pierwsze zdanie nie będzie takie same,
      jak drugie.
 
----> Ta linia ma parę słów, które trzeba zmienić używając polecenia zmień.
+---> Ta linia ma pare słów, które trzeba zmienić używajac polecenia zmień.
 ---> Ta linia ma parę słów, które trzeba zmienić używając polecenia zmień.
 
   Zauważ, że  ce  nie tylko zamienia wyraz, ale także zmienia tryb na
@@ -448,8 +453,8 @@ UWAGA: Pamiętaj, by uczyć się ćwicząc, a nie pamięciowo.
 
   5. Wpisz  c$ , popraw koniec wiersza i wciśnij <ESC>.
 
----> Koniec tego wiersza musi być poprawiony używając polecenia  c$ .
----> Koniec tego wiersza musi być poprawiony używając polecenia  c$ .
+---> Koniec tego wiersza musi być poprawiony, aby wyglądał tak, jak drugi.
+---> Koniec tego wiersza musi być poprawiony, aby wyglądał tak, jak drugi.
 
 UWAGA:  Możesz używać <BS> aby poprawiać błędy w czasie pisania.
 
@@ -473,6 +478,8 @@ UWAGA:  Możesz używać <BS> aby poprawiać błędy w czasie pisania.
 	c   [liczba]   obiekt
 
      Teraz przejdź do następnej lekcji.
+
+
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 	       Lekcja 4.1.: POŁOŻENIE KURSORA ORAZ STATUS PLIKU
@@ -542,6 +549,7 @@ Uwaga: Ta funkcja jest bardzo użyteczna w debuggowaniu programu
        z niesparowanymi nawiasami!
 
 
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 		  Lekcja 4.4.: POLECENIE SUBSTITUTE (zamiana)
 
@@ -607,6 +615,8 @@ Uwaga: Ta funkcja jest bardzo użyteczna w debuggowaniu programu
 Uwaga:  W ten sposób można wykonać wszystkie polecenia powłoki.
 Uwaga:  Wszystkie polecenia  :  muszą być zakończone <ENTER>.
         Od tego momentu nie zawsze będziemy o tym wspominać.
+
+
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -838,6 +848,10 @@ Uwaga: Aby ignorować wielkość liter dla jednego wyszukiwania: /ignore\c<ENTER
      Możesz użyć zarówno długiej, jak i krótkiej formy.
   7. Dodaj "no", aby wyłączyć opcję:   :set noic
 
+
+
+
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 			 LEKCJA 7.1. JAK UZYSKAĆ POMOC?
 
@@ -921,6 +935,11 @@ UWAGA: Uzupełnianie działa dla wielu poleceń. Spróbuj wcisnąć CTRL-D i <TA
   6. Po poleceniu  : , wciśnij CTRL-D aby zobaczyć możliwe uzupełnienia.
      Wciśnij <TAB> aby użyć jednego z nich.
 
+
+
+
+
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
   Tutaj się kończy tutorial Vima. Został on pomyślany tak, aby dać krótki
@@ -928,31 +947,31 @@ UWAGA: Uzupełnianie działa dla wielu poleceń. Spróbuj wcisnąć CTRL-D i <TA
   daleki od kompletności, ponieważ Vim ma o wiele, wiele więcej poleceń.
 
   Dla dalszej nauki rekomendujemy książkę:
-        Vim - Vi Improved - autor Steve Oualline
-        Wydawca: New Riders
+	Vim - Vi Improved - autor Steve Oualline
+	Wydawca: New Riders
   Pierwsza książka całkowicie poświęcona Vimowi. Użyteczna zwłaszcza dla
   początkujących. Zawiera wiele przykładów i ilustracji.
   Zobacz http://iccf-holland.org./click5.html
 
   Starsza pozycja i bardziej o Vi niż o Vimie, ale także warta
   polecenia:
-        Learning the Vi Editor - autor Linda Lamb
-        Wydawca: O'Reilly & Associates Inc.
+	Learning the Vi Editor - autor Linda Lamb
+	Wydawca: O'Reilly & Associates Inc.
   To dobra książka, by dowiedzieć się niemal wszystkiego, co chciałbyś zrobić
   z Vi. Szósta edycja zawiera też informacje o Vimie.
 
   Po polsku wydano:
-        Edytor vi. Leksykon kieszonkowy - autor Arnold Robbins
-        Wydawca: Helion 2001 (O'Reilly).
-        ISBN: 83-7197-472-8
-        http://helion.pl/ksiazki/vilek.htm
+	Edytor vi. Leksykon kieszonkowy - autor Arnold Robbins
+	Wydawca: Helion 2001 (O'Reilly).
+	ISBN: 83-7197-472-8
+	http://helion.pl/ksiazki/vilek.htm
   Jest to książeczka zawierająca spis poleceń vi i jego najważniejszych
   klonów (między innymi Vima).
 
-        Edytor vi - autorzy Linda Lamb i Arnold Robbins
-        Wydawca: Helion 2001 (O'Reilly) - wg 6. ang. wydania
-        ISBN: 83-7197-539-2
-        http://helion.pl/ksiazki/viedyt.htm
+	Edytor vi - autorzy Linda Lamb i Arnold Robbins
+	Wydawca: Helion 2001 (O'Reilly) - wg 6. ang. wydania
+	ISBN: 83-7197-539-2
+	http://helion.pl/ksiazki/viedyt.htm
   Rozszerzona wersja Learning the Vi Editor w polskim tłumaczeniu.
 
   Ten tutorial został napisany przez Michaela C. Pierce'a i Roberta K. Ware'a,
