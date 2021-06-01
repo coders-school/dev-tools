@@ -83,7 +83,7 @@ UWAGA: :q!<ENTER> porzuca wszelkie zmiany jakie zrobiłeś. W następnych
 
   4. Powtarzaj kroki 2. do 4. dopóki zdanie nie jest poprawne.
 
----> Kkrowa prrzeskoczyła prrzez ksiiężycc.
+---> Krowa prrzeskoczyła prrzez księżyc.
 
   5. Teraz, kiedy zdanie jest poprawione, przejdź do Lekcji 1.4.
 
@@ -109,7 +109,7 @@ UWAGA: Ucz się przez ćwiczenie, nie wkuwanie.
   4. Po poprawieniu błędu wciśnij <ESC>, by wrócić do trybu Normal.
      Powtarzaj kroki 2. do 4., aby poprawić całe zdanie.
 
----> W tej brkje trochę .
+---> W tej linii brakuje trochę tekstu.
 ---> W tej linii brakuje trochę tekstu.
 
   5. Kiedy czujesz się swobodnie wstawiając tekst, przejdź do
@@ -132,9 +132,9 @@ UWAGA: Ucz się przez ćwiczenie, nie wkuwanie.
   4. Przenieś kursor do drugiej linii oznaczonej ---> i powtórz kroki 2. i 3.,
      aby poprawić zdanie.
 
----> Brakuje tu tro
+---> Brakuje tu trochę tekstu.
      Brakuje tu trochę tekstu.
----> Tu też trochę bra
+---> Tu też trochę brakuje.
      Tu też trochę brakuje.
 
   5. Kiedy już utrwaliłeś ćwiczenie, przejdź do lekcji 1.6.
@@ -453,8 +453,8 @@ UWAGA: Pamiętaj, by uczyć się ćwicząc, a nie pamięciowo.
 
   5. Wpisz  c$ , popraw koniec wiersza i wciśnij <ESC>.
 
----> Koniec tego wiersza musi być poprawiony, aby wyglądał tak, jak drugi.
----> Koniec tego wiersza musi być poprawiony, aby wyglądał tak, jak drugi.
+---> Koniec tego wiersza musi być poprawiony używając polecenia  c$ .
+---> Koniec tego wiersza musi być poprawiony używając polecenia  c$ .
 
 UWAGA:  Możesz używać <BS> aby poprawiać błędy w czasie pisania.
 
