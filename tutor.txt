@@ -83,7 +83,7 @@ UWAGA: :q!<ENTER> porzuca wszelkie zmiany jakie zrobiłeś. W następnych
 
   4. Powtarzaj kroki 2. do 4. dopóki zdanie nie jest poprawne.
 
----> Krowa prrzeskoczyła prrzez księżyc.
+---> Krowa przeskoczyła prrzez księżyc.
 
   5. Teraz, kiedy zdanie jest poprawione, przejdź do Lekcji 1.4.
 
@@ -403,7 +403,7 @@ UWAGA:  Mnożnik pomiędzy operatorem  d  i ruchem działa podobnie do ruchu bez
 
   4. Powtarzaj kroki 2. i 3. dopóki pierwsza linia nie będzie taka, jak druga.
 
---->  Kiedy ten wiersz był wstukiwany, ktoś wciznął parę złych klawiszy!
+--->  Kiedy ten wiersz był wstukiwany, ktoś wcisnął parę złych klawiszy!
 --->  Kiedy ten wiersz był wstukiwany, ktoś wcisnął parę złych klawiszy!
 
   5. Teraz czas na Lekcję 3.3.
@@ -428,7 +428,7 @@ UWAGA: Pamiętaj, by uczyć się ćwicząc, a nie pamięciowo.
   5. Powtarzaj kroki 3. i 4. dopóki pierwsze zdanie nie będzie takie same,
      jak drugie.
 
----> Ta linia ma pare słów, które trzeba zmienić używajac polecenia zmień.
+---> Ta linia ma parę słów, które trzeba zmienić używajac polecenia zmień.
 ---> Ta linia ma parę słów, które trzeba zmienić używając polecenia zmień.
 
   Zauważ, że  ce  nie tylko zamienia wyraz, ale także zmienia tryb na
