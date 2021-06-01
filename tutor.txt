@@ -388,6 +388,7 @@ UWAGA:  Mnożnik pomiędzy operatorem  d  i ruchem działa podobnie do ruchu bez
 ---> c) A my się kochamy,
 ---> d) Jak dwa aniołki.
 
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 		    Lekcja 3.2.: POLECENIE REPLACE (zastąp)
 
