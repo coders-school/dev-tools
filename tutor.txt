@@ -134,7 +134,7 @@ UWAGA: Ucz się przez ćwiczenie, nie wkuwanie.
 
 ---> Brakuje tu trochę tekstu.
      Brakuje tu trochę tekstu.
----> Tu też trochę bra
+---> Tu też trochę brakuje.
      Tu też trochę brakuje.
 
   5. Kiedy już utrwaliłeś ćwiczenie, przejdź do lekcji 1.6.
@@ -337,7 +337,7 @@ UWAGA:  Mnożnik pomiędzy operatorem  d  i ruchem działa podobnie do ruchu bez
   7. Teraz wpisz CTRL-R (trzymaj równocześnie wciśnięte klawisze CTRL i R)
      kilka razy, by cofnąć cofnięcia.
 
----> Popraw błędy w tej lini i zamiień je przez cofnij.
+---> Popraw błędy w tej lini i zamień je przez cofnij.
 
   8. To są bardzo pożyteczne polecenia.
 
@@ -402,7 +402,7 @@ UWAGA:  Mnożnik pomiędzy operatorem  d  i ruchem działa podobnie do ruchu bez
 
   4. Powtarzaj kroki 2. i 3. dopóki pierwsza linia nie będzie taka, jak druga.
 
---->  Kjedy ten wiersz był wstukiwany, ktoś wcisnął perę złych klawiszy!
+--->  Kiedy ten wiersz był wstukiwany, ktoś wcisnął perę złych klawiszy!
 --->  Kiedy ten wiersz był wstukiwany, ktoś wcisnął parę złych klawiszy!
 
   5. Teraz czas na Lekcję 3.3.
