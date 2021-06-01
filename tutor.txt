@@ -224,6 +224,7 @@ Teraz możemy kontynuować i przejść do Lekcji 2.
 
 ---> Ktoś wpisał koniec tego zdania dwukrotnie.
 
+
   5. Przejdź do Lekcji 2.3., by zrozumieć co się stało.
 
 
@@ -386,7 +387,6 @@ UWAGA:  Mnożnik pomiędzy operatorem  d  i ruchem działa podobnie do ruchu bez
 ---> b) Na dole fiołki,
 ---> c) A my się kochamy,
 ---> d) Jak dwa aniołki.
-
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
