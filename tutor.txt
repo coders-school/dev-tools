@@ -522,7 +522,7 @@ UWAGA: Możesz też zobaczyć pozycję kursora w prawym, dolnym rogu ekranu.
   5. Aby wrócić gdzie byłeś, wciśnij  CTRL-O. Powtarzaj, by wrócić dalej. CTRL-I
      idzie do przodu.
 
-Uwaga:  'błąd' to nie jest metoda, by przeliterować błąd; 'błąd' to błąd.
+Uwaga:  'błond' to nie jest metoda, by przeliterować błąd; 'błond' to błąd.
 Uwaga:  Kiedy szukanie osiągnie koniec pliku, będzie kontynuowane od początku
         o ile opcja 'wrapscan' nie została przestawiona.
 
