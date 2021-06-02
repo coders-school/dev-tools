@@ -83,7 +83,7 @@ UWAGA: :q!<ENTER> porzuca wszelkie zmiany jakie zrobiłeś. W następnych
 
   4. Powtarzaj kroki 2. do 4. dopóki zdanie nie jest poprawne.
 
-Krowa przeskoczyła przez księżyc.
+---> Krowa przeskoczyła przez księżyc.
 
   5. Teraz, kiedy zdanie jest poprawione, przejdź do Lekcji 1.4.
 
@@ -132,7 +132,7 @@ UWAGA: Ucz się przez ćwiczenie, nie wkuwanie.
   4. Przenieś kursor do drugiej linii oznaczonej ---> i powtórz kroki 2. i 3.,
      aby poprawić zdanie.
 
----> Brakuje tu trochę tesktu.
+---> Brakuje tu trochę tekstu.
      Brakuje tu trochę tekstu.
 ---> Tu też trochę brakuje.
      Tu też trochę brakuje.
@@ -203,7 +203,7 @@ Teraz możemy kontynuować i przejść do Lekcji 2.
 	 Jeśli zobaczysz inny znak, oznacza to, że wpisałeś coś źle; wciśnij
 	 <ESC> i zacznij od początku.
 
----> Jest tu pare wyrazów, które nie należą do tego zdania.
+---> Jest tu parę wyrazów, które nie należą do tego zdania.
 
   5. Powtarzaj kroki 3. i 4. dopóki zdanie nie będzie poprawne, potem
   przejdź do Lekcji 2.2.
@@ -453,7 +453,7 @@ UWAGA: Pamiętaj, by uczyć się ćwicząc, a nie pamięciowo.
 
   5. Wpisz  c$ , popraw koniec wiersza i wciśnij <ESC>.
 
----> Koniec tego wiersza musi być poprawiony używając polecenia c$ .
+---> Koniec tego wiersza musi być poprawiony używając polecenia  c$ .
 ---> Koniec tego wiersza musi być poprawiony używając polecenia  c$ .
 
 UWAGA:  Możesz używać <BS> aby poprawiać błędy w czasie pisania.
@@ -564,7 +564,7 @@ Uwaga: Ta funkcja jest bardzo użyteczna w debuggowaniu programu
   3. Teraz wpisz  :s/czaas/czas/g  . Dodane  g  oznacza zamianę (substytucję)
      globalnie w całej linii.  Zmienia wszystkie wystąpienia 'czaas' w linii.
 
--> Najlepszy czas na zobaczenie najładniejszych kwiatów to czas wiosny.
+---> Najlepszy czas na zobaczenie najładniejszych kwiatów to czas wiosny.
 
   4. Aby zmienić wszystkie wystąpienia łańcucha znaków pomiędzy dwoma liniami,
      wpisz: :#,#s/stare/nowe/g gdzie #,# są numerami linii ograniczających
@@ -671,6 +671,16 @@ UWAGA: Wciśnięcie  v  zaczyna tryb Wizualny. Możesz poruszać kursorem, by
 
 	    ** By wstawić zawartość pliku, wpisz   :r NAZWA_PLIKU **
 
+  1. Przenieś kursor do tego wiersza.
+
+  2. Wciśnij  v  i przenieś kursor do punktu 5. Zauważ, że tekst został
+     podświetlony.
+
+  3. Wciśnij znak  : . Na dole ekranu pojawi się  :'<,'> .
+
+  4. Wpisz  w TEST , gdzie TEST to nazwa pliku, który jeszcze nie istnieje.
+     Upewnij się, że widzisz  :'<,'>w TEST zanim wciśniesz Enter.
+
   1. Umieść kursor tuż powyżej tej linii.
 
 UWAGA: Po wykonaniu kroku 2. zobaczysz tekst z Lekcji 5.3. Potem przejdź
@@ -726,10 +736,12 @@ UWAGA: Możesz też wczytać wyjście zewnętrznego polecenia. Na przykład
   3. Wpisz trochę tekstu i wciśnij <ESC> by wyjść z trybu Insert (wprowadzanie).
 
 ---> Po wciśnięciu  o  kursor znajdzie się w otwartej linii w trybie Insert.
+mały tekst
 
   4. By otworzyć linię POWYŻEJ kursora, wciśnij wielkie  O  zamiast małego
      o . Wypróbuj to na linii poniżej.
 
+duży tekst
 ---> Otwórz linię powyżej wciskając SHIFT-O gdy kursor będzie na tej linii.
 
 
