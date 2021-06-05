@@ -865,3 +865,146 @@ Uwaga: Aby ignorować wielkość liter dla jednego wyszukiwania: /ignore\c<ENTER
 
 
 
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			 LEKCJA 7.1. JAK UZYSKAĆ POMOC?
+
+		      ** Użycie systemu pomocy on-line **
+
+  Vim posiada bardzo dobry system pomocy on-line. By zacząć, spróbuj jednej
+  z trzech możliwości:
+	- wciśnij klawisz <HELP> (jeśli taki masz)
+	- wciśnij klawisz <F1> (jeśli taki masz)
+	- wpisz   :help<ENTER>
+
+  Przeczytaj tekst w oknie pomocy, aby dowiedzieć się jak działa pomoc.
+  wpisz CTRL-W CTRL-W    aby przeskoczyć z jednego okna do innego
+  wpisz :q<ENTER>        aby zamknąć okno pomocy.
+
+  Możesz też znaleźć pomoc na każdy temat podając argument polecenia ":help".
+  Spróbuj tych (nie zapomnij wcisnąć <ENTER>):
+
+  :help w
+  :help c_CTRL-D
+  :help insert-index
+  :help user-manual
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		   LEKCJA 7.2. TWORZENIE SKRYPTU STARTOWEGO
+
+			  ** Włącz możliwości Vima **
+
+  Vim ma o wiele więcej możliwości niż Vi, ale większość z nich jest domyślnie
+  wyłączona. Jeśli chcesz włączyć te możliwości na starcie musisz utworzyć
+  plik "vimrc".
+
+  1. Początek edycji pliku "vimrc" zależy od Twojego systemu:
+     :edit ~/.vimrc	     dla Uniksa
+     :edit $VIM/_vimrc       dla MS-Windows
+  2. Teraz wczytaj przykładowy plik "vimrc":
+     :read $VIMRUNTIME/vimrc_example.vim
+  3. Zapisz plik:
+     :w
+
+  Następnym razem, gdy zaczniesz pracę w Vimie będzie on używać podświetlania
+  składni. Możesz dodać wszystkie swoje ulubione ustawienia do tego pliku
+  "vimrc".
+  Aby uzyskać więcej informacji, wpisz     :help vimrc-intro
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			  Lekcja 7.3.: UZUPEŁNIANIE
+
+
+	      ** Uzupełnianie linii poleceń z CTRL-D i <TAB> **
+
+  1. Upewnij się, że Vim nie jest w trybie kompatybilności:   :set nocp
+
+  2. Zerknij, jakie pliki są w bieżącym katalogu:   :!ls   lub   :!dir
+
+  3. Wpisz początek polecenia:   :e
+
+  4. Wciśnij  CTRL-D  i Vim pokaże listę poleceń, jakie zaczynają się na "e".
+
+  5. Wciśnij  <TAB>  i Vim uzupełni polecenie do ":edit".
+
+  6. Dodaj spację i zacznij wpisywać nazwę istniejącego pliku:   :edit FIL
+
+  7. Wciśnij <TAB>. Vim uzupełni nazwę (jeśli jest niepowtarzalna).
+
+UWAGA: Uzupełnianie działa dla wielu poleceń. Spróbuj wcisnąć CTRL-D i <TAB>.
+       Użyteczne zwłaszcza przy  :help .
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			    Lekcja 7. PODSUMOWANIE
+
+
+  1. Wpisz  :help  albo wciśnij <F1> lub <Help> aby otworzyć okno pomocy.
+
+  2. Wpisz  :help cmd  aby uzyskać pomoc o  cmd .
+
+  3. Wpisz  CTRL-W CTRL-W  aby przeskoczyć do innego okna.
+
+  4. Wpisz  :q  aby zamknąć okno pomocy.
+
+  5. Utwórz plik startowy vimrc aby zachować wybrane ustawienia.
+
+  6. Po poleceniu  : , wciśnij CTRL-D aby zobaczyć możliwe uzupełnienia.
+     Wciśnij <TAB> aby użyć jednego z nich.
+
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  Tutaj się kończy tutorial Vima. Został on pomyślany tak, aby dać krótki
+  przegląd jego możliwości, wystarczający byś mógł go używać. Jest on
+  daleki od kompletności, ponieważ Vim ma o wiele, wiele więcej poleceń.
+
+  Dla dalszej nauki rekomendujemy książkę:
+	Vim - Vi Improved - autor Steve Oualline
+	Wydawca: New Riders
+  Pierwsza książka całkowicie poświęcona Vimowi. Użyteczna zwłaszcza dla
+  początkujących. Zawiera wiele przykładów i ilustracji.
+  Zobacz http://iccf-holland.org./click5.html
+
+  Starsza pozycja i bardziej o Vi niż o Vimie, ale także warta
+  polecenia:
+	Learning the Vi Editor - autor Linda Lamb
+	Wydawca: O'Reilly & Associates Inc.
+  To dobra książka, by dowiedzieć się niemal wszystkiego, co chciałbyś zrobić
+  z Vi. Szósta edycja zawiera też informacje o Vimie.
+
+  Po polsku wydano:
+	Edytor vi. Leksykon kieszonkowy - autor Arnold Robbins
+	Wydawca: Helion 2001 (O'Reilly).
+	ISBN: 83-7197-472-8
+	http://helion.pl/ksiazki/vilek.htm
+  Jest to książeczka zawierająca spis poleceń vi i jego najważniejszych
+  klonów (między innymi Vima).
+
+	Edytor vi - autorzy Linda Lamb i Arnold Robbins
+	Wydawca: Helion 2001 (O'Reilly) - wg 6. ang. wydania
+	ISBN: 83-7197-539-2
+	http://helion.pl/ksiazki/viedyt.htm
+  Rozszerzona wersja Learning the Vi Editor w polskim tłumaczeniu.
+
+  Ten tutorial został napisany przez Michaela C. Pierce'a i Roberta K. Ware'a,
+  Colorado School of Mines korzystając z pomocy Charlesa Smitha,
+  Colorado State University.
+  E-mail: bware@mines.colorado.edu.
+
+  Zmodyfikowane dla Vima przez Brama Moolenaara.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  Przetłumaczone przez Mikołaja Machowskiego,
+  Sierpień 2001,
+  rev. Marzec 2002
+  2nd rev. Wrzesień 2004
+  3rd rev. Marzec 2006
+  4th rev. Grudzień 2008
+  Wszelkie uwagi proszę kierować na: mikmach@wp.pl
+
+
+
