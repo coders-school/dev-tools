@@ -739,12 +739,11 @@ UWAGA: Możesz też wczytać wyjście zewnętrznego polecenia. Na przykład
   3. Wpisz trochę tekstu i wciśnij <ESC> by wyjść z trybu Insert (wprowadzanie).
 
 ---> Po wciśnięciu  o  kursor znajdzie się w otwartej linii w trybie Insert.
-jkjlkjlkjljl
+
 
   4. By otworzyć linię POWYŻEJ kursora, wciśnij wielkie  O  zamiast małego
      o . Wypróbuj to na linii poniżej.
 
-jbkjkjbnkjnbjnkjnkjnkjnkjnkjn
 ---> Otwórz linię powyżej wciskając SHIFT-O gdy kursor będzie na tej linii.
 
 
@@ -815,7 +814,7 @@ UWAGA: Tryb Replace jest jak tryb Insert, ale każdy znak usuwa istniejący
      końca następnej linii  j$  i upakuj tam tekst z  p .
 
 --->  a) to jest pierwszy element.
-      b) to jest a drugi element.
+      b) 
 Uwaga: możesz użyć  y  jako operatora;  yw  kopiuje jeden wyraz.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
