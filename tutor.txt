@@ -1,113 +1,116 @@
 ===============================================================================
-=    W e l c o m e   t o   t h e   V I M   T u t o r    -    Version 1.7      =
+=    W i t a j   w   t u t o r i a l u   V I M - a      -    Wersja  1.7.     =
 ===============================================================================
 
-     Vim is a very powerful editor that has many commands, too many to
-     explain in a tutor such as this.  This tutor is designed to describe
-     enough of the commands that you will be able to easily use Vim as
-     an all-purpose editor.
+     Vim to potężny edytor, który posiada wiele poleceń, zbyt dużo, by
+     wyjaśnić je wszystkie w tym tutorialu. Ten przewodnik ma nauczyć
+     Cię posługiwać się wystarczająco wieloma komendami, byś mógł łatwo
+     używać Vima jako edytora ogólnego przeznaczenia.
 
-     The approximate time required to complete the tutor is 25-30 minutes,
-     depending upon how much time is spent with experimentation.
+     Czas potrzebny na ukończenie tutoriala to 25 do 30 minut i zależy
+     od tego jak wiele czasu spędzisz na eksperymentowaniu.
 
-     ATTENTION:
-     The commands in the lessons will modify the text.  Make a copy of this
-     file to practice on (if you started "vimtutor" this is already a copy).
+	 UWAGA:
+	 Polecenia wykonywane w czasie lekcji zmodyfikują tekst. Zrób
+	 wcześniej kopię tego pliku do ćwiczeń (jeśli zacząłeś komendą
+	 "vimtutor", to już pracujesz na kopii).
 
-     It is important to remember that this tutor is set up to teach by
-     use.  That means that you need to execute the commands to learn them
-     properly.  If you only read the text, you will forget the commands!
+	 Pamiętaj, że przewodnik ten został zaprojektowany do nauki poprzez
+	 ćwiczenia. Oznacza to, że musisz wykonywać polecenia, by nauczyć się ich
+	 prawidłowo. Jeśli będziesz jedynie czytał tekst, szybko zapomnisz wiele
+	 poleceń!
 
-     Now, make sure that your Caps-Lock key is NOT depressed and press
-     the   j   key enough times to move the cursor so that lesson 1.1
-     completely fills the screen.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-			Lesson 1.1:  MOVING THE CURSOR
-
-
-   ** To move the cursor, press the h,j,k,l keys as indicated. **
-	     ^
-	     k		    Hint:  The h key is at the left and moves left.
-       < h	 l >		   The l key is at the right and moves right.
-	     j			   The j key looks like a down arrow.
-	     v
-  1. Move the cursor around the screen until you are comfortable.
-
-  2. Hold down the down key (j) until it repeats.
-     Now you know how to move to the next lesson.
-
-  3. Using the down key, move to lesson 1.2.
-
-NOTE: If you are ever unsure about something you typed, press <ESC> to place
-      you in Normal mode.  Then retype the command you wanted.
-
-NOTE: The cursor keys should also work.  But using hjkl you will be able to
-      move around much faster, once you get used to it.  Really!
+     Teraz upewnij się, że nie masz wciśniętego Caps Locka i wciskaj  j
+     tak długo dopóki Lekcja 1.1. nie wypełni całkowicie ekranu.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-			    Lesson 1.2: EXITING VIM
+		  Lekcja 1.1.: PORUSZANIE SIĘ KURSOREM
 
+       ** By wykonać ruch kursorem, wciśnij h, j, k, l jak pokazano. **
 
-  !! NOTE: Before executing any of the steps below, read this entire lesson!!
+	       ^
+	       k		      Wskazówka:  h jest po lewej
+	  < h	  l >				  l jest po prawej
+	       j				  j wygląda jak strzałka w dół
+	       v
+  1. Poruszaj kursorem dopóki nie będziesz pewien, że pamiętasz polecenia.
 
-  1. Press the <ESC> key (to make sure you are in Normal mode).
+  2. Trzymaj  j  tak długo aż będzie się powtarzał.
+     Teraz wiesz jak dojść do następnej lekcji.
 
-  2. Type:	:q! <ENTER>.
-     This exits the editor, DISCARDING any changes you have made.
+  3. Używając strzałki w dół przejdź do następnej lekcji.
 
-  3. Get back here by executing the command that got you into this tutor. That
-     might be:  vimtutor <ENTER>
+Uwaga: Jeśli nie jesteś pewien czegoś co wpisałeś, wciśnij <ESC>, by wrócić do
+       trybu Normal. Wtedy powtórz polecenie.
 
-  4. If you have these steps memorized and are confident, execute steps
-     1 through 3 to exit and re-enter the editor.
-
-NOTE:  :q! <ENTER>  discards any changes you made.  In a few lessons you
-       will learn how to save the changes to a file.
-
-  5. Move the cursor down to lesson 1.3.
-
+Uwaga: Klawisze kursora także powinny działać, ale używając  hjkl  będziesz
+       w stanie poruszać się o wiele szybciej, jak się tylko przyzwyczaisz.
+       Naprawdę!
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-		     Lesson 1.3: TEXT EDITING - DELETION
+		    Lekcja 1.2.: WYCHODZENIE Z VIM-a
 
+ !! UWAGA: Przed wykonaniem jakiegokolwiek polecenia przeczytaj całą lekcję !!
 
-	   ** Press  x  to delete the character under the cursor. **
+  1. Wciśnij <ESC> (aby upewnić się, że jesteś w trybie Normal).
+  2. Wpisz:			:q!<ENTER>.
+     To spowoduje wyjście z edytora PORZUCAJĄC wszelkie zmiany, jakie
+     zdążyłeś zrobić. Jeśli chcesz zapamiętać zmiany i wyjść,
+     wpisz:			:wq<ENTER>
 
-  1. Move the cursor to the line below marked --->.
+  3. Kiedy widzisz znak zachęty powłoki wpisz komendę, żeby wrócić
+     do tutoriala. Czyli:	vimtutor<ENTER>
 
-  2. To fix the errors, move the cursor until it is on top of the
-     character to be deleted.
+  4. Jeśli chcesz zapamiętać polecenia, wykonaj kroki 1. do 3., aby
+     wyjść i wrócić do edytora.
 
-  3. Press the	x  key to delete the unwanted character.
+UWAGA: :q!<ENTER> porzuca wszelkie zmiany jakie zrobiłeś. W następnych
+       lekcjach dowiesz się jak je zapamiętywać.
 
-  4. Repeat steps 2 through 4 until the sentence is correct.
-
----> The cow jumped over the moon.
-
-  5. Now that the line is correct, go on to lesson 1.4.
-
-NOTE: As you go through this tutor, do not try to memorize, learn by usage.
-
+  5. Przenieś kursor do lekcji 1.3.
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-		      Lesson 1.4: TEXT EDITING - INSERTION
+		 Lekcja 1.3.: EDYCJA TEKSTU - KASOWANIE
+
+	    ** Wciśnij  x  aby usunąć znak pod kursorem. **
+
+  1. Przenieś kursor do linii poniżej oznaczonej --->.
+
+  2. By poprawić błędy, naprowadź kursor na znak do usunięcia.
+
+  3. Wciśnij  x  aby usunąć niechciany znak.
+
+  4. Powtarzaj kroki 2. do 4. dopóki zdanie nie jest poprawne.
+
+---> Krowa przeskoczyła przez księżyc.
+
+  5. Teraz, kiedy zdanie jest poprawione, przejdź do Lekcji 1.4.
+
+UWAGA: Ucz się przez ćwiczenie, nie wkuwanie.
 
 
-			** Press  i  to insert text. **
 
-  1. Move the cursor to the first line below marked --->.
 
-  2. To make the first line the same as the second, move the cursor on top
-     of the first character AFTER where the text is to be inserted.
 
-  3. Press  i  and type in the necessary additions.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	   Lekcja 1.4.: EDYCJA TEKSTU - INSERT (wprowadzanie)
 
-  4. As each error is fixed press <ESC> to return to Normal mode.
-     Repeat steps 2 through 4 to correct the sentence.
 
----> There is some text missing from this line.
----> There is some text missing from this line.
+		  ** Wciśnij  i  aby wstawić tekst. **
 
-  5. When you are comfortable inserting text move to lesson 1.5.
+  1. Przenieś kursor do pierwszej linii poniżej oznaczonej --->.
 
+  2. Aby poprawić pierwszy wiersz, ustaw kursor na pierwszym znaku PO tym,
+     gdzie tekst ma być wstawiony.
+
+  3. Wciśnij  i  a następnie wpisz konieczne poprawki.
+
+  4. Po poprawieniu błędu wciśnij <ESC>, by wrócić do trybu Normal.
+     Powtarzaj kroki 2. do 4., aby poprawić całe zdanie.
+
+---> W tej linii brakuje trochę tekstu.
+---> W tej linii brakuje trochę tekstu.
+
+  5. Kiedy czujesz się swobodnie wstawiając tekst, przejdź do
+     podsumowania poniżej.
