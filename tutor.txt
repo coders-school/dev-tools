@@ -383,10 +383,10 @@ UWAGA:  Mnożnik pomiędzy operatorem  d  i ruchem działa podobnie do ruchu bez
 
   5. Powtarzaj kroki 2. do 4. aż znajdą się w odpowiednim porządku.
 
----> d) Jak dwa aniołki.
+---> a) Na górze róże,
 ---> b) Na dole fiołki,
 ---> c) A my się kochamy,
----> a) Na górze róże,
+---> d) Jak dwa aniołki.
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -403,7 +403,7 @@ UWAGA:  Mnożnik pomiędzy operatorem  d  i ruchem działa podobnie do ruchu bez
 
   4. Powtarzaj kroki 2. i 3. dopóki pierwsza linia nie będzie taka, jak druga.
 
---->  Kjedy ten wiersz bił wstókiwany, ktoś wciznął perę złych klawirzy!
+--->  Kiedy ten wiersz był wstukiwany, ktoś wcisnął parę złych klawiszy!
 --->  Kiedy ten wiersz był wstukiwany, ktoś wcisnął parę złych klawiszy!
 
   5. Teraz czas na Lekcję 3.3.
