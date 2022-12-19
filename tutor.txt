@@ -291,7 +291,7 @@ UWAGA: Wpisanie tylko ruchu w trybie Normal bez operatora przeniesie kursor
 
   2. Wpisz  2dw  aby usunąć dwa wyrazy KAPITALIKAMI.
 
-  3. Powtarzaj kroki 1. i 2. z innymi mnożnikami, aby usunąć kolejne wyrazy 
+  3. Powtarzaj kroki 1. i 2. z innymi mnożnikami, aby usunąć kolejne wyrazy
      KAPITALIKAMI jednym poleceniem
 
 ---> ta linia wyrazów została oczyszczona.
