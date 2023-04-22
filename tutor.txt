@@ -134,7 +134,7 @@ UWAGA: Ucz się przez ćwiczenie, nie wkuwanie.
 
 ---> Brakuje tu trochę tekstu.
      Brakuje tu trochę tekstu.
----> Tu też trochę brakuje.	
+---> Tu też trochę brakuje.
      Tu też trochę brakuje.
 
   5. Kiedy już utrwaliłeś ćwiczenie, przejdź do lekcji 1.6.
@@ -203,7 +203,7 @@ Teraz możemy kontynuować i przejść do Lekcji 2.
 	 Jeśli zobaczysz inny znak, oznacza to, że wpisałeś coś źle; wciśnij
 	 <ESC> i zacznij od początku.
 
----> Jest tu parę  wyrazów, które  nie należą do  tego zdania.
+---> Jest tu parę wyrazów, które nie należą do tego zdania.
 
   5. Powtarzaj kroki 3. i 4. dopóki zdanie nie będzie poprawne, potem
   przejdź do Lekcji 2.2.
