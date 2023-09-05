@@ -479,6 +479,8 @@ UWAGA:  Możesz używać <BS> aby poprawiać błędy w czasie pisania.
 
      Teraz przejdź do następnej lekcji.
 
+
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 	       Lekcja 4.1.: POŁOŻENIE KURSORA ORAZ STATUS PLIKU
 
