@@ -479,7 +479,6 @@ UWAGA:  Możesz używać <BS> aby poprawiać błędy w czasie pisania.
 
      Teraz przejdź do następnej lekcji.
 
-
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 	       Lekcja 4.1.: POŁOŻENIE KURSORA ORAZ STATUS PLIKU
 
@@ -558,7 +557,7 @@ Uwaga: Ta funkcja jest bardzo użyteczna w debuggowaniu programu
   1. Przenieś kursor do linii poniżej oznaczonej --->.
 
   2. Wpisz  :s/czaas/czas<ENTER> .  Zauważ, że to polecenie zmienia
-     tylko pierwsze wystąpienie 'czas' w linii.
+     tylko pierwsze wystąpienie 'czaas' w linii.
 
   3. Teraz wpisz  :s/czaas/czas/g  . Dodane  g  oznacza zamianę (substytucję)
      globalnie w całej linii.  Zmienia wszystkie wystąpienia 'czaas' w linii.
@@ -597,7 +596,6 @@ Uwaga: Ta funkcja jest bardzo użyteczna w debuggowaniu programu
      By Vim prosił Cię o potwierdzenie, dodaj 'c'	   :%s/stary/nowy/gc
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 		 Lekcja 5.1.: JAK WYKONAĆ POLECENIA ZEWNĘTRZNE?
-
 
 	** Wpisz  :!  a następnie zewnętrzne polecenie, by je wykonać. **
 
