@@ -561,7 +561,7 @@ Uwaga: Ta funkcja jest bardzo użyteczna w debuggowaniu programu
      tylko pierwsze wystąpienie 'czaas' w linii.
 
   3. Teraz wpisz  :s/czaas/czas/g  . Dodane  g  oznacza zamianę (substytucję)
-     globalnie w całej linii.  Zmienia wszystkie wystąpienia 'czas' w linii.
+     globalnie w całej linii.  Zmienia wszystkie wystąpienia 'czaas' w linii.
 
 ---> Najlepszy czas na zobaczenie najładniejszych kwiatów to czas wiosny.
 
