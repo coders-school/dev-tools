@@ -592,3 +592,5 @@ NOTE: This is very useful in debugging a program with unmatched parentheses!
      To substitute phrases between two line #'s type	   :#,#s/old/new/g
      To substitute all occurrences in the file type	   :%s/old/new/g
      To ask for confirmation each time add 'c'		   :%s/old/new/gc
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
